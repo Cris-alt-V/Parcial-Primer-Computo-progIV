@@ -26,5 +26,8 @@ Diseño responsivo: adaptar la interfaz a móviles y tablets.
 
 Buenas prácticas de código: uso de funciones reutilizables y documentación clara para que otros desarrolladores puedan ampliar el sistema fácilmente.
 
-Integrante: Cristian Velasquez
+Integrante: 
+Cristian Velasquez
+Francisco Hernandez
+
 
